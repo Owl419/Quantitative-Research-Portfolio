@@ -21,7 +21,7 @@ Following a final exam, a professor pulled me aside, impressed by my rapid reten
 * Outlines a four-leg architecture focusing on balanced convexity and conditional deployment.
 
 ## 4. Forecasting Modern Mercantilism (Bridgewater Associates Submission)
-**[Link to PDF](./Dominique_Aphing-Kouassi_Forecasting_the_Future.pdf)**
+**[Link to PDF](./Dominique_Aphing-Kouassi_Forecasting the Future_ A Modern Economics Challenge (2) copie .pdf)**
 * A 40-page structural macro research paper developing 20 probability-based predictions on how strategic resource control and industrial policy will reshape the global economy.
 
 ---
