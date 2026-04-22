@@ -5,7 +5,7 @@ This repository contains my proprietary research, quantitative models, and the o
 ## 1. The Origin (December 2024)
 Following a final exam, a professor pulled me aside, impressed by my rapid retention, and told me, *"You should try this."* He sent me the complex quantitative research paper below, which flipped the switch and triggered my entry into the field.
 
-![December 2024 Email](./Dec_2024_Origin_Email.png)
+![December 2024 Email](https://github.com/Owl419/Quantitative-Research-Portfolio/blob/main/Dec_2024_Origin_Email.png.png?raw=true)
 
 ---
 
